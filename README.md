@@ -16,7 +16,7 @@ I am a programmer with knowledge of software development and design.
 - Android Studio
 
 
-- 📫 How to reach me: shamsul.mjd@gmail.com
+📫 How to reach me: shamsul.mjd@gmail.com
 
 <!---
 ShmslMjd/ShmslMjd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
