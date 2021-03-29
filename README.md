@@ -1,6 +1,6 @@
 👋 Hi, I’m @ShmslMjd
 
-I am a programmer with knowledge of software development and design.
+I am a programmer with knowledge of software and web development.
 
 👀 Skill Summary
 
