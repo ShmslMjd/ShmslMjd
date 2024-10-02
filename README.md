@@ -8,7 +8,7 @@ I am a programmer with knowledge of app, web, and game development.
 - Java, Scala, Python
 - Unity, C#, C
 - MySQL
-- Figma, LucidChart, Microsoft Word, Powerpoint
+- Figma, LucidChart, Visual Paradigm, Git, Tortoise SVN
 
 🌱 I’m currently learning
 
