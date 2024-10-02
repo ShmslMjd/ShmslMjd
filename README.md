@@ -1,19 +1,19 @@
 👋 Hi, I’m @ShmslMjd
 
-I am a programmer with knowledge of software, web and game development.
+I am a programmer with knowledge of app, web, and game development.
 
 👀 Skill Summary
 
 - HTML, CSS, JavaScript, PHP
-- Java, C
-- Unity, C#
+- Java, Scala, Python
+- Unity, C#, C
 - MySQL
 - Figma, LucidChart, Microsoft Word, Powerpoint
 
 🌱 I’m currently learning
 
-- Unity
-- Android Studio
+- Python
+- AI
 
 
 📫 How to reach me: shamsul.mjd@gmail.com
